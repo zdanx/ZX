@@ -5,7 +5,7 @@
         "CustomScripts": [
             {
                 "Nama": "Siexther",
-                "Url": "loadstring(game:HttpGet(\"https://www.siexther.online/loader\"))()"
+                "Url": "https://www.siexther.online/loader"
             },
             {
                 "Nama": "SA 2",
