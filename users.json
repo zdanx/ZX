@@ -36,5 +36,16 @@
 
             }
         ]
-       }
+       },
+
+        {
+        "Username": "griz",
+        "Password": "lyn1",
+        "CustomScripts": [
+            {
+                "Nama": "Edrin",
+                "Url": "https://pastebin.com/raw/YqgAkVxM"
+            }
+        ]
+    }
 ]
