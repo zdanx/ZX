@@ -26,5 +26,15 @@
                 "Url": "https://raw.githubusercontent.com/.../cmd.lua"
             }
         ]
-    }
+    },
+
+       {
+        "Username": "rigz",
+        "Password": ."123",
+        "CustomScripts": [
+            {
+
+            }
+        ]
+       }
 ]
