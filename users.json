@@ -4,12 +4,12 @@
         "Password": "123",
         "CustomScripts": [
             {
-                "Nama": "Fly Script Ku",
-                "Url": "https://raw.githubusercontent.com/.../fly.lua"
+                "Nama": "Siexther",
+                "Url": "loadstring(game:HttpGet(\"https://www.siexther.online/loader\"))()"
             },
             {
-                "Nama": "ESP Player",
-                "Url": "https://raw.githubusercontent.com/.../esp.lua"
+                "Nama": "SA 2",
+                "Url": "loadstring(game:HttpGet(\"https://zamix.my.id/v2\"))()"
             }
         ]
     },
