@@ -1,0 +1,26 @@
+[
+    {
+        "Username": "zidan",
+        "Password": "123",
+        "CustomScripts": [
+            {
+                "Nama": "Fly Script Ku",
+                "Url": "https://raw.githubusercontent.com/.../fly.lua"
+            },
+            {
+                "Nama": "ESP Player",
+                "Url": "https://raw.githubusercontent.com/.../esp.lua"
+            }
+        ]
+    },
+    {
+        "Username": "zamix",
+        "Password": "mypassword",
+        "CustomScripts": [
+            {
+                "Nama": "Admin Commands",
+                "Url": "https://raw.githubusercontent.com/.../cmd.lua"
+            }
+        ]
+    }
+]
