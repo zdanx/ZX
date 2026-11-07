@@ -10,6 +10,10 @@
             {
                 "Nama": "SA 2",
                 "Url": "https://zamix.my.id/v2"
+            },
+            {
+                "Nama": "IY",
+                "Url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
             }
         ]
     },
