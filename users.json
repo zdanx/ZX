@@ -9,7 +9,7 @@
             },
             {
                 "Nama": "SA 2",
-                "Url": "loadstring(game:HttpGet(\"https://zamix.my.id/v2\"))()"
+                "Url": "https://zamix.my.id/v2"
             }
         ]
     },
